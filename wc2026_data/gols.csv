@@ -1,0 +1,124 @@
+﻿round,fase,grupo,data,time_casa,time_fora,time_marcador,jogador,minuto,penalti,gol_contra
+Matchday 1,Group A,Group A,2026-06-11,Mexico,South Africa,Mexico,Julián Quiñones,9,False,False
+Matchday 1,Group A,Group A,2026-06-11,Mexico,South Africa,Mexico,Raúl Jiménez,67,False,False
+Matchday 1,Group A,Group A,2026-06-11,South Korea,Czech Republic,South Korea,Hwang In-Beom,67,False,False
+Matchday 1,Group A,Group A,2026-06-11,South Korea,Czech Republic,South Korea,Oh Hyeon-Gyu,80,False,False
+Matchday 1,Group A,Group A,2026-06-11,South Korea,Czech Republic,Czech Republic,Ladislav Krejcí,59,False,False
+Matchday 8,Group A,Group A,2026-06-18,Czech Republic,South Africa,Czech Republic,Michal Sadílek,6,False,False
+Matchday 8,Group A,Group A,2026-06-18,Czech Republic,South Africa,South Africa,Teboho Mokoena,83,True,False
+Matchday 8,Group A,Group A,2026-06-18,Mexico,South Korea,Mexico,Luis Romo,50,False,False
+Matchday 2,Group B,Group B,2026-06-12,Canada,Bosnia & Herzegovina,Canada,Cyle Larin,78,False,False
+Matchday 2,Group B,Group B,2026-06-12,Canada,Bosnia & Herzegovina,Bosnia & Herzegovina,Jovo Lukić,21,False,False
+Matchday 3,Group B,Group B,2026-06-13,Qatar,Switzerland,Qatar,Miro Muheim,90+4,False,False
+Matchday 3,Group B,Group B,2026-06-13,Qatar,Switzerland,Switzerland,Breel Embolo,17,True,False
+Matchday 8,Group B,Group B,2026-06-18,Switzerland,Bosnia & Herzegovina,Switzerland,Johan Manzambi,74,False,False
+Matchday 8,Group B,Group B,2026-06-18,Switzerland,Bosnia & Herzegovina,Switzerland,Rubén Vargas,84,False,False
+Matchday 8,Group B,Group B,2026-06-18,Switzerland,Bosnia & Herzegovina,Switzerland,Johan Manzambi,90,False,False
+Matchday 8,Group B,Group B,2026-06-18,Switzerland,Bosnia & Herzegovina,Switzerland,Granit Xhaka,90+7,True,False
+Matchday 8,Group B,Group B,2026-06-18,Switzerland,Bosnia & Herzegovina,Bosnia & Herzegovina,Ermin Mahmic,90+3,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Cyle Larin,16,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Jonathan David,29,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Jonathan David,45+3,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Nathan Saliba,64,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Mohamed Manai,75,False,False
+Matchday 8,Group B,Group B,2026-06-18,Canada,Qatar,Canada,Jonathan David,90+2,False,False
+Matchday 3,Group C,Group C,2026-06-13,Brazil,Morocco,Brazil,Vinícius Júnior,32,False,False
+Matchday 3,Group C,Group C,2026-06-13,Brazil,Morocco,Morocco,Ismael Saibari,21,False,False
+Matchday 3,Group C,Group C,2026-06-13,Haiti,Scotland,Scotland,John McGinn,28,False,False
+Matchday 9,Group C,Group C,2026-06-19,Scotland,Morocco,Morocco,Ismael Saibari,2,False,False
+Matchday 9,Group C,Group C,2026-06-19,Brazil,Haiti,Brazil,Matheus Cunha,23,False,False
+Matchday 9,Group C,Group C,2026-06-19,Brazil,Haiti,Brazil,Matheus Cunha,36,False,False
+Matchday 9,Group C,Group C,2026-06-19,Brazil,Haiti,Brazil,Vinícius Júnior,45+3,False,False
+Matchday 2,Group D,Group D,2026-06-12,USA,Paraguay,USA,Damian Bobadilla,7,False,False
+Matchday 2,Group D,Group D,2026-06-12,USA,Paraguay,USA,Folarin Balogun,31,False,False
+Matchday 2,Group D,Group D,2026-06-12,USA,Paraguay,USA,Folarin Balogun,45+5,False,False
+Matchday 2,Group D,Group D,2026-06-12,USA,Paraguay,USA,Giovanni Reyna,90+8,False,False
+Matchday 2,Group D,Group D,2026-06-12,USA,Paraguay,Paraguay,Mauricio,73,False,False
+Matchday 3,Group D,Group D,2026-06-13,Australia,Turkey,Australia,Nestory Irankunda,27,False,False
+Matchday 3,Group D,Group D,2026-06-13,Australia,Turkey,Australia,Connor Metcalfe,75,False,False
+Matchday 9,Group D,Group D,2026-06-19,USA,Australia,USA,Cameron Burgess,11,False,False
+Matchday 9,Group D,Group D,2026-06-19,USA,Australia,USA,Alex Freeman,43,False,False
+Matchday 9,Group D,Group D,2026-06-19,Turkey,Paraguay,Paraguay,Matías Galarza,2,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Felix Nmecha,6,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Nico Schlotterbeck,38,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Kai Havertz,45+5,True,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Kai Havertz,88,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Jamal Musiala,47,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Nathaniel Brown,68,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Germany,Deniz Undav,78,False,False
+Matchday 4,Group E,Group E,2026-06-14,Germany,Curaçao,Curaçao,Livano Comenencia,21,False,False
+Matchday 4,Group E,Group E,2026-06-14,Ivory Coast,Ecuador,Ivory Coast,Amad Diallo,90,False,False
+Matchday 10,Group E,Group E,2026-06-20,Germany,Ivory Coast,Germany,Deniz Undav,68,False,False
+Matchday 10,Group E,Group E,2026-06-20,Germany,Ivory Coast,Germany,Deniz Undav,90+4,False,False
+Matchday 10,Group E,Group E,2026-06-20,Germany,Ivory Coast,Ivory Coast,Franck Kessié,30,False,False
+Matchday 4,Group F,Group F,2026-06-14,Netherlands,Japan,Netherlands,Virgil van Dijk,51,False,False
+Matchday 4,Group F,Group F,2026-06-14,Netherlands,Japan,Netherlands,Crysencio Summerville,64,False,False
+Matchday 4,Group F,Group F,2026-06-14,Netherlands,Japan,Japan,Keito Nakamura,57,False,False
+Matchday 4,Group F,Group F,2026-06-14,Netherlands,Japan,Japan,Daichi Kamada,88,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Sweden,Yasin Ayari,7,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Sweden,Alexander Isak,30,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Sweden,Viktor Gyökeres,59,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Sweden,Mattias Svanberg,84,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Sweden,Yasin Ayari,90+6,False,False
+Matchday 4,Group F,Group F,2026-06-14,Sweden,Tunisia,Tunisia,Omar Rekik,43,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Netherlands,Brian Brobbey,5,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Netherlands,Brian Brobbey,17,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Netherlands,Cody Gakpo,47,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Netherlands,Cody Gakpo,54,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Netherlands,Crysencio Summerville,89,False,False
+Matchday 10,Group F,Group F,2026-06-20,Netherlands,Sweden,Sweden,Anthony Elanga,59,False,False
+Matchday 10,Group F,Group F,2026-06-20,Tunisia,Japan,Japan,Daichi Kamada,4,False,False
+Matchday 10,Group F,Group F,2026-06-20,Tunisia,Japan,Japan,Ayase Ueda,31,False,False
+Matchday 10,Group F,Group F,2026-06-20,Tunisia,Japan,Japan,Junya Ito,69,False,False
+Matchday 10,Group F,Group F,2026-06-20,Tunisia,Japan,Japan,Ayase Ueda,83,False,False
+Matchday 5,Group G,Group G,2026-06-15,Belgium,Egypt,Belgium,Mohamed Hany,66,False,False
+Matchday 5,Group G,Group G,2026-06-15,Belgium,Egypt,Egypt,Emam Ashour,19,False,False
+Matchday 5,Group G,Group G,2026-06-15,Iran,New Zealand,Iran,Ramin Rezaeian,32,False,False
+Matchday 5,Group G,Group G,2026-06-15,Iran,New Zealand,Iran,Mohammad Mohebbi,64,False,False
+Matchday 5,Group G,Group G,2026-06-15,Iran,New Zealand,New Zealand,Elijah Just,7,False,False
+Matchday 5,Group G,Group G,2026-06-15,Iran,New Zealand,New Zealand,Elijah Just,54,False,False
+Matchday 11,Group G,Group G,2026-06-21,New Zealand,Egypt,New Zealand,Finn Surman,15,False,False
+Matchday 11,Group G,Group G,2026-06-21,New Zealand,Egypt,Egypt,Mostafa Zico,58,False,False
+Matchday 11,Group G,Group G,2026-06-21,New Zealand,Egypt,Egypt,Mohamed Salah,67,False,False
+Matchday 11,Group G,Group G,2026-06-21,New Zealand,Egypt,Egypt,Trézéguet,82,False,False
+Matchday 5,Group H,Group H,2026-06-15,Saudi Arabia,Uruguay,Saudi Arabia,Abdulelah Al-Amri,41,False,False
+Matchday 5,Group H,Group H,2026-06-15,Saudi Arabia,Uruguay,Uruguay,Maxi Araújo,80,False,False
+Matchday 11,Group H,Group H,2026-06-21,Spain,Saudi Arabia,Spain,Lamine Yamal,10,False,False
+Matchday 11,Group H,Group H,2026-06-21,Spain,Saudi Arabia,Spain,Mikel Oyarzabal,21,False,False
+Matchday 11,Group H,Group H,2026-06-21,Spain,Saudi Arabia,Spain,Mikel Oyarzabal,24,False,False
+Matchday 11,Group H,Group H,2026-06-21,Spain,Saudi Arabia,Spain,Hassan Al-Tambakti,49,False,False
+Matchday 11,Group H,Group H,2026-06-21,Uruguay,Cape Verde,Uruguay,Maxi Araújo,44,False,False
+Matchday 11,Group H,Group H,2026-06-21,Uruguay,Cape Verde,Uruguay,Agustín Cano,45+6,False,False
+Matchday 11,Group H,Group H,2026-06-21,Uruguay,Cape Verde,Cape Verde,Kevin Pina,21,False,False
+Matchday 11,Group H,Group H,2026-06-21,Uruguay,Cape Verde,Cape Verde,Hélio Varela,61,False,False
+Matchday 6,Group I,Group I,2026-06-16,France,Senegal,France,Kylian Mbappé,66,False,False
+Matchday 6,Group I,Group I,2026-06-16,France,Senegal,France,Bradley Barcola,82,False,False
+Matchday 6,Group I,Group I,2026-06-16,France,Senegal,France,Kylian Mbappé,90+6,False,False
+Matchday 6,Group I,Group I,2026-06-16,France,Senegal,Senegal,Ibrahim Mbaye,90+5,False,False
+Matchday 6,Group I,Group I,2026-06-16,Iraq,Norway,Iraq,Aymen Hussein,39,False,False
+Matchday 6,Group I,Group I,2026-06-16,Iraq,Norway,Norway,Erling Haaland,29,False,False
+Matchday 6,Group I,Group I,2026-06-16,Iraq,Norway,Norway,Erling Haaland,43,False,False
+Matchday 6,Group I,Group I,2026-06-16,Iraq,Norway,Norway,Leo Østigard,76,False,False
+Matchday 6,Group I,Group I,2026-06-16,Iraq,Norway,Norway,Aymen Hussein,90+6,False,False
+Matchday 6,Group J,Group J,2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,17,False,False
+Matchday 6,Group J,Group J,2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,60,False,False
+Matchday 6,Group J,Group J,2026-06-16,Argentina,Algeria,Argentina,Lionel Messi,76,False,False
+Matchday 6,Group J,Group J,2026-06-16,Austria,Jordan,Austria,Romano Schmid,21,False,False
+Matchday 6,Group J,Group J,2026-06-16,Austria,Jordan,Austria,Yazan Al-Arab,76,False,False
+Matchday 6,Group J,Group J,2026-06-16,Austria,Jordan,Austria,Marko Arnautovic,90+12,True,False
+Matchday 6,Group J,Group J,2026-06-16,Austria,Jordan,Jordan,Ali Olwan,50,False,False
+Matchday 12,Group J,Group J,2026-06-22,Argentina,Austria,Argentina,Lionel Messi,38,False,False
+Matchday 12,Group J,Group J,2026-06-22,Argentina,Austria,Argentina,Lionel Messi,90+5,False,False
+Matchday 7,Group K,Group K,2026-06-17,Portugal,DR Congo,Portugal,João Neves,6,False,False
+Matchday 7,Group K,Group K,2026-06-17,Portugal,DR Congo,DR Congo,Yoane Wissa,45+5,False,False
+Matchday 7,Group K,Group K,2026-06-17,Uzbekistan,Colombia,Uzbekistan,Abbosbek Fayzullaev,60,False,False
+Matchday 7,Group K,Group K,2026-06-17,Uzbekistan,Colombia,Colombia,Daniel Muñoz,40,False,False
+Matchday 7,Group K,Group K,2026-06-17,Uzbekistan,Colombia,Colombia,Luis Díaz,65,False,False
+Matchday 7,Group K,Group K,2026-06-17,Uzbekistan,Colombia,Colombia,Jáminton Campaz,90+9,False,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,England,Harry Kane,12,True,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,England,Harry Kane,42,False,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,England,Jude Bellingham,47,False,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,England,Marcus Rashford,85,False,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,Croatia,Martin Baturina,36,False,False
+Matchday 7,Group L,Group L,2026-06-17,England,Croatia,Croatia,Petar Musa,45+5,False,False
+Matchday 7,Group L,Group L,2026-06-17,Ghana,Panama,Ghana,Caleb Yirenkyi,90+5,False,False

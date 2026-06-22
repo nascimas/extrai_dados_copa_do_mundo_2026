@@ -1,0 +1,13 @@
+﻿sigla,nome_pt,descricao
+APP,Partidas,Entrou em campo
+G,Gols,Gols marcados
+A,Assistências,Assistências para gol
+SHOT,Chutes,Total de chutes
+SOG,Chutes no Alvo,Chutes que exigiram defesa
+SV,Defesas,Defesas do goleiro
+GA,Gols Sofridos,Gols sofridos pelo goleiro
+OF,Impedimentos,Vezes pego em impedimento
+FC,Faltas Cometidas,Faltas que o jogador cometeu
+FA,Faltas Sofridas,Faltas que o jogador sofreu
+YC,Cartões Amarelos,Amarelos recebidos na partida
+RC,Cartões Vermelhos,Vermelhos recebidos na partida

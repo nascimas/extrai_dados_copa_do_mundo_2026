@@ -1,0 +1,8 @@
+{
+  "extraido_em": "2026-06-22T18:57:19.409618",
+  "jogos_realizados": 41,
+  "fonte_primaria": "openfootball/worldcup.json",
+  "fonte_scout": "ESPN hidden API (/summary?event=ID)",
+  "bandeiras": "flagcdn.com (via times.csv)",
+  "fotos_jogadores": "ESPN CDN (a.espncdn.com/i/headshots/soccer/players/full/{id}.png)"
+}
